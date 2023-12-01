@@ -10,7 +10,7 @@
       <div class="q-py-xs">
         <q-breadcrumbs>
           <q-breadcrumbs-el label="主页面" v-if="!is_child_component" />
-          <q-breadcrumbs-el label="用户模块" />
+          <q-breadcrumbs-el label="用户模块1" />
         </q-breadcrumbs>
       </div>
       <!-- 搜索区域 -->
